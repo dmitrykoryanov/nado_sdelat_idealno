@@ -44,11 +44,10 @@ body::before {
   font-size: 116px;
   line-height: 136px;
   letter-spacing: 0.035em;
-  /*letter-spacing: 3px;*/
   text-align: center;
   text-transform: uppercase;
   z-index: 2;
-  /*white-space: nowrap;*/
+  white-space: nowrap;
 }
 
 .title:hover::before {
