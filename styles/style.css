@@ -43,13 +43,13 @@ body::before {
   font-weight: 800;
   font-size: 116px;
   line-height: 136px;
-  /*letter-spacing: 0.035em;*/
-  letter-spacing: 2px;
+  letter-spacing: 0.035em;
+  /*letter-spacing: 2px;*/
   text-align: center;
   text-transform: uppercase;
   z-index: 2;
   /*display: inline-block;*/
-  /*white-space: nowrap;*/
+  white-space: nowrap;
 }
 
 .title:hover::before {
