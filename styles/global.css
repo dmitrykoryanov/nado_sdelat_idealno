@@ -10,7 +10,8 @@ html {
 
 body {
   width: 1600px;
-  margin: 0 auto;
+  min-width: 800px;
+  margin: 0px auto;
   font-family: Raleway, sans-serif;
   display: flex;
   flex-direction: column;
