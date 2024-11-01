@@ -75,7 +75,9 @@ body::before {
 
 .title::after {
   content: "*";
-  z-index: 2;
+  vertical-align: baseline;
+  margin-left: -0.15em;
+  display: inline;
 }
 
 .video {
