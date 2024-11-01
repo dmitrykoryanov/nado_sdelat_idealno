@@ -33,8 +33,9 @@ body::before {
   content: "";
   position: absolute;
   inset: 0;
-  z-index: 1;
-  background-color: rgba(255, 255, 255, 0.4);
+  z-index: 4;
+  /*background: rgba(0, 0, 0, 0.43);*/
+  background-color: rgba(255, 255, 255, 0.35);
 }
 
 .title {
@@ -47,7 +48,7 @@ body::before {
   text-align: center;
   text-transform: uppercase;
   z-index: 2;
-  margin-left: -0.1em;
+  margin-left: 0.3em;
 }
 
 .title:hover::before {
