@@ -48,6 +48,7 @@ body::before {
   text-transform: uppercase;
   z-index: 2;
   white-space: nowrap;
+  margin-right: -0.25em;
 }
 
 .title:hover::before {
