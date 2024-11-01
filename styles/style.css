@@ -34,7 +34,7 @@ body::before {
   position: absolute;
   inset: 0;
   z-index: 1;
-  background-color: rgba(255, 255, 255, 0.5);
+  background-color: rgba(255, 255, 255, 0.2);
 }
 
 .title {
