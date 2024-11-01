@@ -11,7 +11,7 @@ html {
 body {
   width: 1600px;
   min-width: 800px;
-  margin: 0px auto;
+  margin: 0px;
   font-family: Raleway, sans-serif;
   display: flex;
   flex-direction: column;
