@@ -9,15 +9,15 @@ html {
 }
 
 body {
-  width: 1600px;
-  height: 900px;
   min-width: 800px;
+  height: inherit;
   margin: 0px;
   font-family: Raleway, sans-serif;
   display: flex;
   flex-direction: column;
   align-items: center;
   position: relative;
+  overflow-x: hidden;
 }
 
 h1,
