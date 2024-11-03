@@ -12,7 +12,8 @@ html {
 body {
   min-width: 800px;
   height: inherit;
-  margin: 0px;
+  /*margin: 0px;*/
+  margin: 0 auto;
   font-family: Raleway, sans-serif;
   display: flex;
   flex-direction: column;
